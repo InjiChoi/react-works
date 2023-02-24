@@ -2,7 +2,7 @@
 
 
 ## DAY 1
-- 개발 환경 설정(Node.js, npm)
+- 개발 환경 설정 (Node.js, npm)
 - 프로젝트 생성 (create react-app)
 - JSX
 - Class Componenet
