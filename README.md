@@ -5,8 +5,8 @@
 - 개발 환경 설정 (Node.js, npm)
 - 프로젝트 생성 (create react-app)
 - JSX
-- Class Componenet
-- Componenet Lifecycle Method
+- Class Component
+- Component Lifecycle Method
 - Props, state
 
 
